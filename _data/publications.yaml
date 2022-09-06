@@ -1,5 +1,11 @@
 papers:
 
+  - title: "A Review of Smartphone Fact-Checking Apps and their (Non) Use Among Older Adults"
+    authors: "<b>Sakhnini, N.</b> & Chattopadhyay, D."
+    venue: "In Adjunct Publication of the 24th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI 22 Adjunct), 2022."
+    paper_pdf: "/assets/publications/2022_smartphone_app_review/paper.pdf"
+    type: "publication"
+
   - title: "Visual (mis)information for older adults"
     authors: "Sakhnini, N."
     venue: "Part of the Computer Science Ph.D. Qualifier Examination. 2021."
