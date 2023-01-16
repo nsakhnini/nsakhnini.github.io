@@ -1,14 +1,14 @@
 projects:
 
-  - title: "People's perception of different stylometric features of misinformation social media posts"
-    thumbnail: "assets/projects/survey.png"
-    url: ""
+  - title: "Virtual Humans in Mental Health Evaluations & Interventions"
+    thumbnail: "assets/projects/vh_project.png"
+    url: "projects/virtual_humans.html"
     status: "current"  
 
-  - title: "Designing Fact-Checking tools"
+  - title: "The Design of Fact-Checking Smartphone Apps for Older Adults"
     thumbnail: "assets/projects/apps.png"
-    url: ""
-    status: "current" 
+    url: "projects/fact_checking.html"
+    status: "past" 
 
   - title: "Does a Social Robot help Older Adults learn using Mobile Applications?"
     thumbnail: "assets/projects/robot.jpeg"

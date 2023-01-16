@@ -7,17 +7,16 @@ title: Home
   <h4>Bio</h4>
   <p> 
     My research interest is in Human-Computer Interaction. 
-    I work on designing and creating tools for older adults to improve their technology experience. 
-    I am also exploring designing to promote behavioral change. 
+    I am currently working on designing and creating virtual humans for human-in-the-loop mental health evaluations and interventions. 
     </p> 
     <p>
-      Currently, I am a Ph.D. student at the University of Illinois at Chicago. My work is under the supervision and direction of Professor <a href="https://debaleena.com/" target="_blank">Debaleena Chattopadhyay</a> at the <a href="https://hci.cs.uic.edu/" target="_blank">UIC Human-Computer Interaction Lab</a> (UIC HCI Lab) 
+      Currently, I am a Ph.D. student in the Computer Science department at the University of Illinois at Chicago. My work is under the supervision and direction of Professor <a href="https://debaleena.com/" target="_blank">Debaleena Chattopadhyay</a> at the <a href="https://hci.cs.uic.edu/" target="_blank">UIC Human-Computer Interaction Lab</a> (UIC HCI Lab) 
       and the <a href="https://www.evl.uic.edu/" target="_blank">Electronic Visualization Lab</a> (EVL). 
-      I got my Masters from the University of Illinois at Chicago in 2019. My Masters research explored practices and needs for personal pollution monitoring.
+      I got my Masters in Computer Science from the University of Illinois at Chicago in 2019. My Masters research explored practices and needs for personal pollution monitoring.
       Before that, I got my B.Sc. in Computer Engineering from Jordan University of Science and Technology.
     </p>
     <p>
-      Recently, I joined Caterpillar as a UI engineer to work on the re-design of improved and more user-friendly engineering software.
+      I work at Caterpillar as a UX/UI engineer to work on the design of cutting-edge engineering software.
     </p>
 </div>
 
@@ -212,6 +211,39 @@ title: Home
   </ul>
 </div>
 
+<!-- ========== COMMUNITY SERVICE ========== 
+<div class="docs-section" id="community_service">
+ <h4>Community Service</h4>
+  <div id="projects-current">
+    {% assign community_service = site.data.community_service.community_service %}
+    {% for service in community_service %}
+      {% assign index_modulo = forloop.index0 | modulo:3 %}
+      {% if index_modulo == 0 %}
+        <div class="row">
+      {% endif %}
+
+        <div class="four columns">
+          <div class="project-container">
+              <div class="project-image-container">
+                <a href="{{ service.url }}" target="_blank">
+                  <img src="{{ service.thumbnail }}" class="u-max-full-width" />
+                </a>
+              </div>
+              <div class="project-caption">
+                <b>{{ service.title }}</b>
+              </div>
+
+          </div>
+        </div>
+
+      {% if index_modulo == 2 %}
+        </div>
+      {% endif %}
+    {% endfor %}
+    </div>
+
+</div>
+-->
 
 <div class="docs-section" id="template">
     <h6>Credits</h6>

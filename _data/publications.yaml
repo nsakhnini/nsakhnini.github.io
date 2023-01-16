@@ -4,6 +4,7 @@ papers:
     authors: "<b>Sakhnini, N.</b> & Chattopadhyay, D."
     venue: "In Adjunct Publication of the 24th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI 22 Adjunct), 2022."
     paper_pdf: "/assets/publications/2022_smartphone_app_review/paper.pdf"
+    poster: "/assets/publications/2022_smartphone_app_review/poster.pdf"
     type: "publication"
 
   - title: "Visual (mis)information for older adults"
