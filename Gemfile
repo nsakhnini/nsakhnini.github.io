@@ -10,5 +10,7 @@ gem "kramdown", "~> 2.3"
 
 gem "kramdown-parser-gfm"
 
+gem "jekyll-theme-minimal"
+
 gem 'jekyll-sitemap'
 gem 'jekyll-paginate' 
