@@ -1,5 +1,12 @@
 papers:
 
+  - title: "How Proficiency and Feelings impact the Preference and Perception of Mobile Technology Support in Older Adults"
+    authors: "<b>Sakhnini, N.</b>, Sharifi, H., & Chattopadhyay, D."
+    venue: "Proceedings of the 26th International ACM SIGACCESS Conference on Computers and Accessibility, 2024."
+    paper_pdf: "/assets/publications/2024_feelings_tech_support/paper.pdf"
+    poster: "/assets/publications/2024_feelings_tech_support/poster.pdf"
+    type: "publication"
+  
   - title: "A Review of Smartphone Fact-Checking Apps and their (Non) Use Among Older Adults"
     authors: "<b>Sakhnini, N.</b> & Chattopadhyay, D."
     venue: "In Adjunct Publication of the 24th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI 22 Adjunct), 2022."
